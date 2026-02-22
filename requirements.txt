@@ -6,3 +6,4 @@ pypfopt
 math
 scipy
 statsmodels
+sklearn

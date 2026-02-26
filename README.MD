@@ -1,4 +1,4 @@
-# 🇻🇳 Vietnam Bank Stock Portfolio Optimization & Seasonality Analysis
+# Vietnam Bank Stock Portfolio Optimization & Seasonality Analysis
 
 ``` This project analyzes the historical performance, risk-return characteristics, and seasonal patterns of major Vietnamese banking stocks using the most recent 3-year historical price data. It also calculated the optimized portfolios of the given stocks based on the Sharpe ratio. ```
 
@@ -55,6 +55,9 @@ Historical stock price data was obtained from Simplize.vn and includes:
 The 3-year analysis is more realiable since short-term data may reflect temporary market conditions rather than long-term asset efficiency.
 
 ## Key Seasonality Insight
+
+![My Chart](close_MBB_cycle_analysis.png)
+
 
 - Monthly seasonality analysis revealed strong cyclical patterns in Vietnamese banking stocks.
 
